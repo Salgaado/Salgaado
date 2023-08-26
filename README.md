@@ -9,7 +9,7 @@
 
 ###
 
-<a href="https://salgaado.github.io/Portfolio-web/#"><img align="right" height="150" src="https://i.postimg.cc/vmNJbFJM/1675973880952.jpg"  /></a>
+<a href="https://salgaado.github.io/Portfolio-web/#" target="_blank"><img align="right" height="150" src="https://i.postimg.cc/vmNJbFJM/1675973880952.jpg"  /></a>
 
 ###
 
